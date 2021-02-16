@@ -1,4 +1,4 @@
-# Cinema Ticket Application
+# Petshop Application
 
 - - - -
 
